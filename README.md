@@ -6,18 +6,16 @@ TODO: This application takes a given HTML page, scans it and gives a summary for
 
 Modules used :
 
-flask (Flask, render_template, request, Response)
-argparse 
-bs4 (BeautifulSoup,Comment)
-urllib.parse(urlparse)
-requests
-validators
-yaml
-
-subprocess(call)
-hashlib
-json
-
+flask (Flask, render_template, request, Response),
+argparse, 
+bs4 (BeautifulSoup,Comment),
+urllib.parse(urlparse),
+requests,
+validators,
+yaml,
+subprocess(call),
+hashlib,
+json,
 socket
 
 ## Usage
